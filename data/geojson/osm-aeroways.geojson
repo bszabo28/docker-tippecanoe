@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "osm-aeroways",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 189, "osm_id": 158602141, "name": "Dunaújváros", "type": "runway", "id_2": 2428, "osm_id_2": -1420733, "name_2": "Dunaújváros", "type_2": "administrative", "admin_level": 8, "width": 0.105204, "height": 0.111248, "area": 0.011704, "perimeter": 0.432903 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 18.917448064616053, 46.892423739101531 ], [ 18.91019545525711, 46.899249290493799 ] ] ] } }
+]
+}
